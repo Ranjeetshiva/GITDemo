@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="50627" started-at="2020-01-25T11:06:25 SGT" finished-at="2020-01-25T11:07:16 SGT">
+    <groups>
+    </groups>
+    <test name="C:/Docket_Testing" duration-ms="50627" started-at="2020-01-25T11:06:25 SGT" finished-at="2020-01-25T11:07:16 SGT">
+      <class name="ChromeTest1">
+        <test-method status="PASS" signature="startDocker()[pri:0, instance:ChromeTest1@5442a311]" name="startDocker" is-config="true" duration-ms="12256" started-at="2020-01-25T11:06:25 SGT" finished-at="2020-01-25T11:06:37 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startDocker -->
+        <test-method status="PASS" signature="Test1()[pri:0, instance:ChromeTest1@5442a311]" name="Test1" duration-ms="17262" started-at="2020-01-25T11:06:38 SGT" finished-at="2020-01-25T11:06:55 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method status="PASS" signature="stopDocker()[pri:0, instance:ChromeTest1@5442a311]" name="stopDocker" is-config="true" duration-ms="19541" started-at="2020-01-25T11:06:56 SGT" finished-at="2020-01-25T11:07:16 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopDocker -->
+      </class> <!-- ChromeTest1 -->
+      <class name="ChromeTest2">
+        <test-method status="PASS" signature="Test2()[pri:0, instance:ChromeTest2@548e7350]" name="Test2" duration-ms="18769" started-at="2020-01-25T11:06:38 SGT" finished-at="2020-01-25T11:06:56 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+      </class> <!-- ChromeTest2 -->
+      <class name="ChromeTest3">
+        <test-method status="PASS" signature="Test3()[pri:0, instance:ChromeTest3@1a968a59]" name="Test3" duration-ms="18476" started-at="2020-01-25T11:06:38 SGT" finished-at="2020-01-25T11:06:56 SGT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+      </class> <!-- ChromeTest3 -->
+    </test> <!-- C:/Docket_Testing -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
