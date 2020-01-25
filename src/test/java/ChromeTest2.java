@@ -19,6 +19,7 @@ public class ChromeTest2 {
         remoteWebDriver.navigate().to("https://www.gmail.com");
 
         System.out.println(capabilities.getBrowserName());
+        System.out.println("Added New Line");
 
         System.out.println(remoteWebDriver.getTitle());
 
