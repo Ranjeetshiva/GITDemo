@@ -43,25 +43,33 @@
       <recent name="C:\Docket_Testing" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Docket_Testing/testng.xml">
-    <configuration name="ChromeStandAloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ChromeStandAloneTest" />
-      <module name="Docket_Testing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FireFoxStandAloneTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FireFoxStandAloneTest" />
-      <module name="Docket_Testing" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.C:/GITDemo/testng.xml">
     <configuration name="C:/Docket_Testing/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Docket_Testing" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/GITDemo/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GITDemo" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChromeTest2.Test2 (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="GITDemo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ChromeTest2" />
+      <option name="METHOD_NAME" value="Test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -94,11 +102,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/GITDemo/testng.xml" />
+        <item itemvalue="TestNG.ChromeTest2.Test2 (1)" />
         <item itemvalue="TestNG.C:/Docket_Testing/testng.xml" />
         <item itemvalue="TestNG.ChromeTest2.Test2" />
         <item itemvalue="TestNG.StartDocker.startDockerFile" />
-        <item itemvalue="Application.FireFoxStandAloneTest" />
-        <item itemvalue="Application.ChromeStandAloneTest" />
       </list>
     </recent_temporary>
   </component>
@@ -144,22 +152,22 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="112" y="65" width="1015" height="472" key="#xdebugger.evaluate/0.0.1280.680@0.0.1280.680" timestamp="1579748923420" />
-    <state width="1222" height="327" key="GridCell.Tab.0.bottom" timestamp="1579871128490">
+    <state width="1222" height="226" key="GridCell.Tab.0.bottom" timestamp="1579928772981">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="327" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579871128490" />
-    <state width="1222" height="327" key="GridCell.Tab.0.center" timestamp="1579871128489">
+    <state width="1222" height="226" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1579928772981" />
+    <state width="1222" height="226" key="GridCell.Tab.0.center" timestamp="1579928772981">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="327" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579871128489" />
-    <state width="1222" height="327" key="GridCell.Tab.0.left" timestamp="1579871128489">
+    <state width="1222" height="226" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1579928772981" />
+    <state width="1222" height="226" key="GridCell.Tab.0.left" timestamp="1579928772981">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="327" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579871128489" />
-    <state width="1222" height="327" key="GridCell.Tab.0.right" timestamp="1579871128489">
+    <state width="1222" height="226" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1579928772981" />
+    <state width="1222" height="226" key="GridCell.Tab.0.right" timestamp="1579928772981">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1222" height="327" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579871128489" />
+    <state width="1222" height="226" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1579928772981" />
     <state width="1222" height="201" key="GridCell.Tab.1.bottom" timestamp="1579751019323">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

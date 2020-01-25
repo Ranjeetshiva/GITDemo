@@ -20,6 +20,7 @@ public class ChromeTest2 {
 
         System.out.println(capabilities.getBrowserName());
         System.out.println("Added New Line");
+        System.out.println("Added Branch");
 
         System.out.println(remoteWebDriver.getTitle());
 
